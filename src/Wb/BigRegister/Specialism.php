@@ -60,6 +60,7 @@ class Specialism
             71 => 'Spoedeisendehulp (Profiel SEH Arts KNMG)',
             74 => 'Sportgeneeskunde',
             75 => 'Openbare Farmacie',
+            76 => 'Algemene Gezondheidszorg (AGZ)',
         );
     }
 
